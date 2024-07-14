@@ -2,4 +2,10 @@ IE_CTF{gii111t_Goo1452Ddd_A4Tt_Gi81Tt}
 
 
 
-in .git there was a file faaalg and 
+in .git there was a file faaalg and we got 
+HFEuJ1ITv2wkzGVcNCIuI29eNGJ1NpIpAU9YMUI0C0wkLWUFwS0=
+which first decoded using atbash
+then base64 encoded
+
+
+
