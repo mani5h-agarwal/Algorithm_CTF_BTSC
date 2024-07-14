@@ -1,3 +1,7 @@
 IE{!_am_hEre_buDdi_2024}
 
+first decompiled the file
+got 3 hexadecimal values and a code 
+upon comversion and running the code we got three values in which there were some part repeated and after combining we got the flag
+
 
