@@ -1,0 +1,7 @@
+IE_CTF{aDFIbGwwX0FXMTJxdWISUmVEXINIMTF;ZThz}
+
+
+jpg to zip and then extracted
+decompiling question_for_ctf and we got some acsii value and converted to character
+
+
